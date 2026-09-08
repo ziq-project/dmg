@@ -1,6 +1,6 @@
 ## Interface: 11200
-## Title: dmg
-## Author: Ayrill | a Project Legacy fork by ziq
+## Title: dmg |cff7fff7f - Project Legacy|r
+## Author: Ayrill
 ## Version: 1.0
 
 dmg.lua
